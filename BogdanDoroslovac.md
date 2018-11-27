@@ -1,49 +1,55 @@
 # Bogdan Doroslovac #
 -----------------------------------------------------------------
-<table><td>
-
-![CvImage](https://media.licdn.com/dms/image/C5603AQHaFJjot_mKQA/profile-displayphoto-shrink_200_200/0?e=1548288000&v=beta&t=AAWXqdrPNpxKJqtrY5KGG3kVDThKEnPBaZa4iUR-dPw)
-
-</td><td align="right">
-
-|						|					Contact information |
-|:--------------------- | -------------------------------------:|
-| __Mail:__             |            bogdandoroslovac@gmail.com |
-| __LinkedIn__          | www.linkedin.com/in/bogdandoroslovac/ |
-| __Cell:__             |                      +381 65  2643263 |
-| __Skype:__            |                      bogdandoroslovac |
-| __Address:__          |       Mitropolita Pavla Nenadovića 48 |      
-|                       |                        Belgrade 11010 |
-|                       |                                Serbia |
-</td><td>
-
-</td></table>
+<table>
+<td><img src="https://raw.githubusercontent.com/baghatur/CV/master/BogdanD.jpg" width="200" height="200"></td>
+<td><table>
+	<tr><th>	</th>	<th>	Contact information			</th></tr>
+  	<tr><td>mail	</td>	<td>	bogdandoroslovac@gmail.com		</td></tr>
+  	<tr><td>LinkedIn</td>	<td>	www.linkedin.com/in/bogdandoroslovac	</td></tr>
+  	<tr><td>Phone	</td>	<td>	+381 65 2643263				</td></tr>
+  	<tr><td>Skype	</td>	<td>	bogdandoroslovac			</td></tr>
+  	<tr><td>Address	</td>	<td>	Mitropolita Pavla Nenadovića 48		<br>
+							Belgrade 11010		<br>
+								Serbia		</td></tr>
+</table></td>
+<td><img src="https://raw.githubusercontent.com/baghatur/CV/master/QR.png" width="200" height="200"></td>
+</table>
 
 ## Education
 * 2013 - 2019 __MSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 * 2007 - 2013 __BSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 
 ## Work Experience
-* JAN 2018 - NOV 2018 ( 11m) 	__Advanced Software Engineer__    	-	_Zuhlke Engineering d.o.o._
-* OCT 2016 - DEC 2017 (1y3m) 	__Professional Software Engineer__	-	_Zuhlke Engineering d.o.o._
+* MAY 2019 - PRESENT  ( ~~ ) 	__Professional Scrum Trainer (PST)__    - _Freelance_
+	* __Desc:__ Agile Coach and Scrum trainer licensed to teach [Scrum.org](https://www.scrum.org/bogdan-doroslovac):
+		Professional Scrum Developer I course [PSDI](https://www.scrum.org/courses/professional-scrum-developer-training)
+	* __Misc:__ Working on Serbian translation of Nexus guide and Embedded curriculum
+	
+* DEC 2018 - PRESENT  ( ~~ ) 	__C/C++ Software Engineer__    		- _Robert Bosch d.o.o._
+	* __Desc:__ Working on reducing the data volume to be transmitted over the air with possibility of up to 96% of the original software file size. More info: [FOTA Delta](http://www.bosch-softtec.com/fotadelta.html)
+	* __Misc:__ Acting as SAFe ART Scrum Master. 
+	* __Tech:__ C/C++, Git, Bash, Jenkins, Linux, Atlassian Stack
+	
+* JAN 2018 - NOV 2018 ( 11m) 	__Advanced Software Engineer__    	- _Zuhlke Engineering d.o.o._
+* OCT 2016 - DEC 2017 (1y3m) 	__Professional Software Engineer__	- _Zuhlke Engineering d.o.o._
 	* __Desc:__ Service providing - distributed development for client in Elevator and Escalator industry. Working on porting controller software from RTEMS to RT_PREEMPT Linux and implementing new features such as persistant data storage management, enhanced telemetry and Zeroconf networking.
 	* __Misc:__ Assisting PM and acting as Scrum Master and main Point Of Contact starting from Q2 2018. Involved in recruitment process refinement and candidate selection in 2018. Active in internal projects, education and employer branding (job fairs, meetup hosting, etc...) 
 	* __Tech:__ C/C++, Git, Bash, Embedded Linux, Atlassian Stack
 
-* JUN 2016 - SEP 2017 (  4m)	__RnD Engineer__    				- 	_EDePro d.o.o._
+* JUN 2016 - SEP 2016 (  4m)	__RnD Engineer__    			- _EDePro d.o.o._
 	* __Desc:__ Short term project - developing rotordynamics test bench for balancing and analysing small scale jet engine rotors behavior. Test and measurement using National instruments hardware and software, Omega Engineering sensors, Siemens phase regulator and various custom components.
 	* __Tech:__ C, LabVIEW
 
-* APR 2016 – MAY 2016 (  2m)	__Aircraft Components Engineer__	-	_SR Technics Services d.o.o._
+* APR 2016 – MAY 2016 (  2m)	__Aircraft Components Engineer__	- _SR Technics Services d.o.o._
 	* __Desc:__ Part of outsourcing in Maintenence, Repair and Overhaul (MRO) / Aircraft Industry. Responsible for ATA Chapters 22 (Auto Flight) and 34 (Navigation Equipment) related task such as: Implementation and assessments of modifications and interchangeability, Aircraft components limit management, Technical data regarding aircraft components in the ERP (SAP), standards and authority requirements analysis, Maintain airworthiness.
 	* __Tech:__ SAS, SAP, VB, Excel
 
-* JAN 2016 – MAR 2016 (  3m)	__Phase In/Out Coordinator__		-	_SR Technics Services d.o.o._
-* JUL 2015 – DEC 2015 (  6m)	__Phase In/Out Coordinator__		-	_Trizma d.o.o._
+* JAN 2016 – MAR 2016 (  3m)	__Phase In/Out Coordinator__		- _SR Technics Services d.o.o._
+* JUL 2015 – DEC 2015 (  6m)	__Phase In/Out Coordinator__		- _Trizma d.o.o._
  	* __Desc:__ Part of outsourcing in Maintenence, Repair and Overhaul (MRO) / Aircraft Industry. Accountable for the maintenance, accuracy, completeness, and timeliness of aircraft equipment data update activities within ERP (SAP)
  	* __Tech:__ SAS, SAP, VB, Excel
 
-* OCT 2013 – JAN 2015 (1y4m)	__GNC Engineer__						- 	_EDePro d.o.o._
+* OCT 2013 – JAN 2015 (1y4m)	__GNC Engineer__			- _EDePro d.o.o._
 	* __Desc:__ Guidance, Navigation and Control research and development for defense contractor. Work primarily on ALAS (Advanced Light Attack System) Missile system. Autopilot development support: SIL (Software In the Loop) and HIL (Hardware In the Loop) test development and testing, 6DOF missile pre and post flight analysis and Inertial Measurement Unit calibration.
 	* __Tech:__ MATLAB + Simulink, C, LabVIEW, ARM CortexM3
 
@@ -78,9 +84,9 @@
 
 * __Certification:__
 	* [Certified LabVIEW Developer (CLD)](www.youracclaim.com/badges/2a9f901b-cf40-4660-86b2-f67be0b67620)  
-	* [Professional Scrum Developer I (PSDI) & Professional Scrum Master I (PSMI)](www.scrum.org/user/264888)
+	* [Professional Scrum Developer I (PSDI) & Professional Scrum Master I / II (PSMI & PSMII)](www.scrum.org/user/264888)
 	* [Certified Scrum Master (CSM)](www.scrumalliance.org/community/profile/bdoroslova)
-
+	* [Certified SAFe® 4 Agilist](https://www.youracclaim.com/badges/d00c12a6-1aaa-4f3b-973d-3c6c4d18f1dd)
 * __Relevant Coursework:__
 	* Bootlin (ex Free Electrons): [Yocto Project and OpenEmbedded development training](bootlin.com/training/yocto/)
 	* Bootlin (ex Free Electrons): [Embedded Linux development with Buildroot training](bootlin.com/training/buildroot/)
