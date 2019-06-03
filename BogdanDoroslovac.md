@@ -3,14 +3,14 @@
 <table>
 <td><img src="https://raw.githubusercontent.com/baghatur/CV/master/BogdanD.jpg" width="200" height="200"></td>
 <td><table>
-	<tr><th>	</th>	<th>	Contact information			</th></tr>
-  	<tr><td>mail	</td>	<td>	bogdandoroslovac@gmail.com		</td></tr>
+	<tr><th>		</th>	<th>	Contact information						</th></tr>
+  	<tr><td>mail	</td>	<td>	bogdandoroslovac@gmail.com				</td></tr>
   	<tr><td>LinkedIn</td>	<td>	www.linkedin.com/in/bogdandoroslovac	</td></tr>
-  	<tr><td>Phone	</td>	<td>	+381 65 2643263				</td></tr>
-  	<tr><td>Skype	</td>	<td>	bogdandoroslovac			</td></tr>
-  	<tr><td>Address	</td>	<td>	Mitropolita Pavla Nenadovića 48		<br>
-							Belgrade 11010		<br>
-								Serbia		</td></tr>
+  	<tr><td>Phone	</td>	<td>	+381 65 2643263							</td></tr>
+  	<tr><td>Skype	</td>	<td>	bogdandoroslovac						</td></tr>
+  	<tr><td>Address	</td>	<td>	Mitropolita Pavla Nenadovića 48			<br>
+									Belgrade 11010							<br>
+									Serbia									</td></tr>
 </table></td>
 <td><img src="https://raw.githubusercontent.com/baghatur/CV/master/QR.png" width="200" height="200"></td>
 </table>
@@ -25,39 +25,39 @@
 		Professional Scrum Developer I course [PSDI](https://www.scrum.org/courses/professional-scrum-developer-training)
 	* __Misc:__ Working on Serbian translation of Nexus guide and Embedded curriculum
 	
-* DEC 2018 - PRESENT  ( ~~ ) 	__C/C++ Software Engineer__    		- _Robert Bosch d.o.o._
+* DEC 2018 - PRESENT  ( ~~ ) 	__C/C++ Software Engineer__    			- _Robert Bosch d.o.o._
 	* __Desc:__ Working on reducing the data volume to be transmitted over the air with possibility of up to 96% of the original software file size. More info: [FOTA Delta](http://www.bosch-softtec.com/fotadelta.html)
 	* __Misc:__ Acting as SAFe ART Scrum Master. 
 	* __Tech:__ C/C++, Git, Bash, Jenkins, Linux, Atlassian Stack
 	
-* JAN 2018 - NOV 2018 ( 11m) 	__Advanced Software Engineer__    	- _Zuhlke Engineering d.o.o._
-* OCT 2016 - DEC 2017 (1y3m) 	__Professional Software Engineer__	- _Zuhlke Engineering d.o.o._
+* JAN 2018 - NOV 2018 ( 11m) 	__Advanced Software Engineer__    		- _Zuhlke Engineering d.o.o._
+* OCT 2016 - DEC 2017 (1y3m) 	__Professional Software Engineer__		- _Zuhlke Engineering d.o.o._
 	* __Desc:__ Service providing - distributed development for client in Elevator and Escalator industry. Working on porting controller software from RTEMS to RT_PREEMPT Linux and implementing new features such as persistant data storage management, enhanced telemetry and Zeroconf networking.
 	* __Misc:__ Assisting PM and acting as Scrum Master and main Point Of Contact starting from Q2 2018. Involved in recruitment process refinement and candidate selection in 2018. Active in internal projects, education and employer branding (job fairs, meetup hosting, etc...) 
 	* __Tech:__ C/C++, Git, Bash, Embedded Linux, Atlassian Stack
 
-* JUN 2016 - SEP 2016 (  4m)	__RnD Engineer__    			- _EDePro d.o.o._
+* JUN 2016 - SEP 2016 (  4m)	__RnD Engineer__    					- _EDePro d.o.o._
 	* __Desc:__ Short term project - developing rotordynamics test bench for balancing and analysing small scale jet engine rotors behavior. Test and measurement using National instruments hardware and software, Omega Engineering sensors, Siemens phase regulator and various custom components.
 	* __Tech:__ C, LabVIEW
 
-* APR 2016 – MAY 2016 (  2m)	__Aircraft Components Engineer__	- _SR Technics Services d.o.o._
+* APR 2016 – MAY 2016 (  2m)	__Aircraft Components Engineer__		- _SR Technics Services d.o.o._
 	* __Desc:__ Part of outsourcing in Maintenence, Repair and Overhaul (MRO) / Aircraft Industry. Responsible for ATA Chapters 22 (Auto Flight) and 34 (Navigation Equipment) related task such as: Implementation and assessments of modifications and interchangeability, Aircraft components limit management, Technical data regarding aircraft components in the ERP (SAP), standards and authority requirements analysis, Maintain airworthiness.
 	* __Tech:__ SAS, SAP, VB, Excel
 
-* JAN 2016 – MAR 2016 (  3m)	__Phase In/Out Coordinator__		- _SR Technics Services d.o.o._
-* JUL 2015 – DEC 2015 (  6m)	__Phase In/Out Coordinator__		- _Trizma d.o.o._
+* JAN 2016 – MAR 2016 (  3m)	__Phase In/Out Coordinator__			- _SR Technics Services d.o.o._
+* JUL 2015 – DEC 2015 (  6m)	__Phase In/Out Coordinator__			- _Trizma d.o.o._
  	* __Desc:__ Part of outsourcing in Maintenence, Repair and Overhaul (MRO) / Aircraft Industry. Accountable for the maintenance, accuracy, completeness, and timeliness of aircraft equipment data update activities within ERP (SAP)
  	* __Tech:__ SAS, SAP, VB, Excel
 
-* OCT 2013 – JAN 2015 (1y4m)	__GNC Engineer__			- _EDePro d.o.o._
+* OCT 2013 – JAN 2015 (1y4m)	__GNC Engineer__						- _EDePro d.o.o._
 	* __Desc:__ Guidance, Navigation and Control research and development for defense contractor. Work primarily on ALAS (Advanced Light Attack System) Missile system. Autopilot development support: SIL (Software In the Loop) and HIL (Hardware In the Loop) test development and testing, 6DOF missile pre and post flight analysis and Inertial Measurement Unit calibration.
 	* __Tech:__ MATLAB + Simulink, C, LabVIEW, ARM CortexM3
 
-* OCT 2013 – SEP 2014 (  1y)	__LabVIEW Student Ambassador__		- _National Instruments Kft._
+* OCT 2013 – SEP 2014 (  1y)	__LabVIEW Student Ambassador__			- _National Instruments Kft._
 	* __Desc:__ Part time and pro-bono. Responsability included promoting LabVIEW and National Instruments, organize lectures, workshops and CLAD testing for students and professors and assist field sales.
 	* __Tech:__ LabVIEW
 
-* JUL 2013 – SEP 2013 (  3m)	__Application Engineer Intern__		- _National Instruments Kft._
+* JUL 2013 – SEP 2013 (  3m)	__Application Engineer Intern__			- _National Instruments Kft._
 	* __Desc:__ Internship in Budapest/Hungary. Responsible for Pre and Post Sales Technical Support for all NI Software and Hardware. Creating Proof of Concepts using NI Software and Hardware for territory of Serbia, Macedonia and Montenegro.
 	* __Tech:__ LabVIEW
 
