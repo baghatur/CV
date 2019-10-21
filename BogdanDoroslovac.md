@@ -20,12 +20,18 @@
 * 2007 - 2013 __BSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 
 ## Work Experience
-* MAY 2019 - PRESENT  ( ~~ ) 	__Professional Scrum Trainer (PST)__    - _Freelance_
+* OCT 2018 - PRESENT  ( ~~ ) 	__Firmware Lead Engineer__    			- _Holy Code d.o.o. / Ava Women_
+	* __Desc:__ 
+	* __Misc:__ 
+	* __Tech:__ C, Git, Bash, Atlassian Stack
+
+* MAY 2019 - PRESENT  ( ~~ ) 	__Professional Scrum Trainer (PST)__    - _Freelance / Embedded Agility_
 	* __Desc:__ Agile Coach and Scrum trainer licensed to teach [Scrum.org](https://www.scrum.org/bogdan-doroslovac):
 		Professional Scrum Developer I course [PSDI](https://www.scrum.org/courses/professional-scrum-developer-training)
+		Professional Scrum Foundations course [PSF](https://www.scrum.org/courses/professional-scrum-foundations-training)
 	* __Misc:__ Working on Serbian translation of Nexus guide and Embedded curriculum
 	
-* DEC 2018 - PRESENT  ( ~~ ) 	__C/C++ Software Engineer__    			- _Robert Bosch d.o.o._
+* DEC 2018 - OCT 2018  ( 10m) 	__C/C++ Software Engineer__    			- _Robert Bosch d.o.o._
 	* __Desc:__ Working on reducing the data volume to be transmitted over the air with possibility of up to 96% of the original software file size. More info: [FOTA Delta](http://www.bosch-softtec.com/fotadelta.html)
 	* __Misc:__ Acting as SAFe ART Scrum Master. 
 	* __Tech:__ C/C++, Git, Bash, Jenkins, Linux, Atlassian Stack
