@@ -27,9 +27,9 @@
 
 * MAY 2019 - PRESENT  ( ~~ ) 	__Professional Scrum Trainer (PST)__    - _Freelance / Embedded Agility_
 	* __Desc:__ Agile Coach and Scrum trainer licensed to teach [Scrum.org](https://www.scrum.org/bogdan-doroslovac):
-		** Professional Scrum Developer I course [PSDI](https://www.scrum.org/courses/professional-scrum-developer-training)
-		** Professional Scrum Foundations course [PSF](https://www.scrum.org/courses/professional-scrum-foundations-training)
-		** Professional Agile Leadership - Essengtials course [PAL-E](https://www.scrum.org/courses/professional-agile-leadership-essentials-training)
+		- Professional Scrum Developer I course [PSDI](https://www.scrum.org/courses/professional-scrum-developer-training)
+		- Professional Scrum Foundations course [PSF](https://www.scrum.org/courses/professional-scrum-foundations-training)
+		- Professional Agile Leadership - Essengtials course [PAL-E](https://www.scrum.org/courses/professional-agile-leadership-essentials-training)
 	* __Misc:__ Working on Serbian translation of Nexus guide and Embedded curriculum
 	
 * DEC 2018 - OCT 2019  ( 10m) 	__C/C++ Software Engineer__    			- _Robert Bosch d.o.o._
