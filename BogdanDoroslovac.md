@@ -20,19 +20,23 @@
 * 2007 - 2013 __BSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 
 ## Work Experience
-* OCT 2019 - PRESENT  ( ~~ ) 	__Firmware Lead Engineer__    			- _Holy Code d.o.o. / Ava Women_
+* OCT 2019 - PRESENT  ( ~~ ) 	__Firmware Lead Engineer & Scrum Master__    	- _Holy Code d.o.o. / Ava Women_
 	* __Desc:__ Working on IEC 62304 class A & C medical weareable devices. Close colaborating with hardware department, mobile teams on BLE stack and supporting DevOps on building up firmware CI project. More info: [Ava Bracelet](https://www.avawomen.com) 
-	* __Misc:__ Assuming Scrum Master role during ramp-up and facilitating meetings for 2 team. Internal Scrum trainings.
+	* __Misc:__ Assuming Scrum Master role, ramping up colleague for a SM position and facilitating meetings for 2 team. Internal Scrum trainings.
 	* __Tech:__ C, Git, Bash, Atlassian Stack, RTOS, Bare-metal, BLE / Nordic SDK
+
+* MAR 2020 - PRESENT ( ~~ )	__Meetup Community Founder and Co-Organiser__	- _Scrum Sredom (Scrum Wednesdays)_
+	* __Desc:__ Maiting and cultivating one of the most active and widely recognised Agile related meetups on Balkans. More on our [Youtube channel](https://www.youtube.com/channel/UC6j4CQ7HJnJGXMGuqtjFqsA) and our [Meetup Page](https://www.meetup.com/Scrum-Sredom-Scrum-Wednesdays/)
+	* __Misc:__ (co)rganized 20 sucessful events and collaborated with other groups to bring value to our meetup community
 
 * MAY 2019 - PRESENT  ( ~~ ) 	__Professional Scrum Trainer (PST)__    - _Freelance / Embedded Agility_
 	* __Desc:__ Agile Coach and Scrum trainer licensed to teach [Scrum.org](https://www.scrum.org/bogdan-doroslovac):
 		- Professional Scrum Developer I course [PSDI](https://www.scrum.org/courses/professional-scrum-developer-training)
 		- Professional Scrum Foundations course [PSF](https://www.scrum.org/courses/professional-scrum-foundations-training)
 		- Professional Agile Leadership - Essengtials course [PAL-E](https://www.scrum.org/courses/professional-agile-leadership-essentials-training)
-	* __Misc:__ Working on Serbian translation of Nexus guide and Embedded curriculum
+		- Professional Scrum with Kanban course [PSK](https://www.scrum.org/courses/professional-scrum-with-kanban-training)
 	
-* DEC 2018 - OCT 2019  ( 10m) 	__C/C++ Software Engineer__    			- _Robert Bosch d.o.o._
+* DEC 2018 - OCT 2019  ( 10m) 	__C/C++ Software Engineer & SaFE Scrum Master__	- _Robert Bosch d.o.o._
 	* __Desc:__ Working on reducing the data volume to be transmitted over the air with possibility of up to 96% of the original software file size. More info: [FOTA Delta](http://www.bosch-softtec.com/fotadelta.html)
 	* __Misc:__ Acting as SAFe ART Scrum Master. 
 	* __Tech:__ C/C++, Git, Bash, Jenkins, Linux, Atlassian Stack
@@ -43,7 +47,7 @@
 	* __Misc:__ Assisting PM and acting as Scrum Master and main Point Of Contact starting from Q2 2018. Involved in recruitment process refinement and candidate selection in 2018. Active in internal projects, education and employer branding (job fairs, meetup hosting, etc...) 
 	* __Tech:__ C/C++, Git, Bash, Embedded Linux, Atlassian Stack
 
-* JUN 2016 - SEP 2016 (  4m)	__RnD Engineer__    					- _EDePro d.o.o._
+* JUN 2016 - SEP 2016 (  4m)	__RnD Engineer__    				- _EDePro d.o.o._
 	* __Desc:__ Short term project - developing rotordynamics test bench for balancing and analysing small scale jet engine rotors behavior. Test and measurement using National instruments hardware and software, Omega Engineering sensors, Siemens phase regulator and various custom components.
 	* __Tech:__ C, LabVIEW
 
@@ -112,13 +116,13 @@
 	* EBEC2014 Local 1st, Regional 1st and Final 3rd place in Team design category
 
 * __Refereces:__ 
-	* [Dušan Vukašinović](www.linkedin.com/in/dusan-vukasinovic-b6065ba/)			- Field Sales Engineer at National Instruments
-	* [Ján Budaj](www.linkedin.com/in/j%C3%A1n-budaj-93561349/)						- Applications Engineer Team Lead at National Instruments
-	* [Ivana Todić](www.linkedin.com/in/ivana-todic-5380a74/)						- BSc. Mentor and GNC RnD engineer at EDePro
-	* [Milan Kovačević](www.linkedin.com/in/milankovacevicsaga/)					- Chief of GNC Dpt. at EDePro
-	* [Saša Tasić](www.linkedin.com/in/sasa-tasic-04021446/)						- Head of Component Engineering and Data Management
+	* [Dušan Vukašinović](www.linkedin.com/in/dusan-vukasinovic-b6065ba/)		- Field Sales Engineer at National Instruments
+	* [Ján Budaj](www.linkedin.com/in/j%C3%A1n-budaj-93561349/)			- Applications Engineer Team Lead at National Instruments
+	* [Ivana Todić](www.linkedin.com/in/ivana-todic-5380a74/)			- BSc. Mentor and GNC RnD engineer at EDePro
+	* [Milan Kovačević](www.linkedin.com/in/milankovacevicsaga/)			- Chief of GNC Dpt. at EDePro
+	* [Saša Tasić](www.linkedin.com/in/sasa-tasic-04021446/)			- Head of Component Engineering and Data Management
 	* [Vladimir Jazarecić](www.linkedin.com/in/vladimir-jazarevic-phd-3217423a/)	- Chief of Dpt. electrical UAV and control of turbo engines at EDePro
-	* [Stojan Kovačević](www.linkedin.com/in/stojankovacevic/)						- Head of Competence Unit at Zuhlke Engineering d.o.o.
+	* [Stojan Kovačević](www.linkedin.com/in/stojankovacevic/)			- Head of Competence Unit at Zuhlke Engineering d.o.o.
 	* [Aleksandar Marjanović](www.linkedin.com/in/aleksandar-marjanovic-7213b54/)	- Managing Director and Partner at Zuhlke Engineering d.o.o.
 
 * __Hobbies:__ Krav Maga, running, juggling, reading (mostly SF and Fantasy), Arduino, electronics, tinkering, bridge, telegraphy,  ...
