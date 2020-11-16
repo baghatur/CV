@@ -90,12 +90,17 @@
 	* __Serbian__	-	Native
 	* __English__	-	Professional working proficiency
 	* __Slovak__	-	Bilingual proficiency
-	* __Czech__		-	Limited working proficiency
+	* __Czech__	-	Limited working proficiency
 	* __Albanian__ 	-	Elementary proficiency
 
 * __Certification:__
 	* [Certified LabVIEW Developer (CLD)](www.youracclaim.com/badges/2a9f901b-cf40-4660-86b2-f67be0b67620)  
-	* [Professional Scrum Developer I (PSDI) & Professional Scrum Master I / II (PSMI & PSMII)](www.scrum.org/user/264888)
+	* [Professional Scrum Developer I (PSDI)](www.scrum.org/user/264888)
+	* [Professional Scrum Master I / II (PSMI & PSMII)](www.scrum.org/user/264888)
+	* [Proffesional Scrum with Kanban (PSK)](www.scrum.org/user/264888)
+	* [Professional Agile Leadership - Essentials (PAL-E)](www.scrum.org/user/264888)
+	* Certified Management 3.0 Foundation Workshop Atendee
+	* bikablo® 2 Days Visual Facilitation basic training
 	* [Certified Scrum Master (CSM)](www.scrumalliance.org/community/profile/bdoroslova)
 	* [Certified SAFe® 4 Agilist](https://www.youracclaim.com/badges/d00c12a6-1aaa-4f3b-973d-3c6c4d18f1dd)
 * __Relevant Coursework:__
