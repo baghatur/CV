@@ -29,12 +29,18 @@
 	* __Desc:__ Maiting and cultivating one of the most active and widely recognised Agile related meetups on Balkans. More on our [Youtube channel](https://www.youtube.com/channel/UC6j4CQ7HJnJGXMGuqtjFqsA) and our [Meetup Page](https://www.meetup.com/Scrum-Sredom-Scrum-Wednesdays/)
 	* __Misc:__ (co)rganized 20 sucessful events and collaborated with other groups to bring value to our meetup community
 
-* MAY 2019 - PRESENT  ( ~~ ) 	__Professional Scrum Trainer (PST)__    	- _Freelance / Embedded Agility_
-	* __Desc:__ Agile Coach and Scrum trainer licensed to teach [Scrum.org](https://www.scrum.org/bogdan-doroslovac):
-		- Professional Scrum Developer I course [PSDI](https://www.scrum.org/courses/professional-scrum-developer-training)
-		- Professional Scrum Foundations course [PSF](https://www.scrum.org/courses/professional-scrum-foundations-training)
-		- Professional Agile Leadership - Essengtials course [PAL-E](https://www.scrum.org/courses/professional-agile-leadership-essentials-training)
-		- Professional Scrum with Kanban course [PSK](https://www.scrum.org/courses/professional-scrum-with-kanban-training)
+* MAY 2019 - PRESENT  ( ~~ ) 	__Indepent Consultant__    	- _Freelance / Embedded Agility_
+	* __Desc:__ 
+		* Providing Professional Coaching and Cosulting services
+		* Agile Coach and Professional Scrum Trainer (PST) licensed to teach [Scrum.org](https://www.scrum.org/bogdan-doroslovac) courses:
+			- Professional Scrum Developer I course [PSDI](https://www.scrum.org/courses/professional-scrum-developer-training)
+			- Professional Scrum Foundations course [PSF](https://www.scrum.org/courses/professional-scrum-foundations-training)
+			- Professional Agile Leadership - Essengtials course [PAL-E](https://www.scrum.org/courses/professional-agile-leadership-essentials-training)
+			- Professional Scrum with Kanban course [PSK](https://www.scrum.org/courses/professional-scrum-with-kanban-training)
+		* SAFe® 5 Program Consultant (SPC) enabled to teach:
+			- SAFe Scrum Master 5.0 course [SSM](https://scaledagile.com/training/safe-scrum-master/)
+			- SAFe for Teams 5.1 course [SP](https://scaledagile.com/training/safe-for-teams/)
+			- Leading SAFe 5.1 course [SA](https://scaledagile.com/training/leading-safe/)
 
 * OCT 2019 - FEB 2021  (1y7m) 	__Firmware Lead Engineer & Scrum Master__    	- _Holy Code d.o.o. / Ava Women_
 	* __Desc:__ Working on IEC 62304 class A & C medical weareable devices. Close colaborating with hardware department, mobile teams on BLE stack and supporting DevOps on building up firmware CI project. More info: [Ava Bracelet](https://www.avawomen.com) 
