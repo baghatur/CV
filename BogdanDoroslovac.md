@@ -1,7 +1,7 @@
 # Bogdan Doroslovac #
 -----------------------------------------------------------------
 <table>
-<td><img src="https://raw.githubusercontent.com/baghatur/CV/master/BogdanD.jpg" width="200" height="200"></td>
+<td><img src="https://raw.githubusercontent.com/baghatur/CV/master/DORB.jpg" width="200" height="200"></td>
 <td><table>
 	<tr><th>		</th>	<th>	Contact information						</th></tr>
   	<tr><td>mail	</td>	<td>	bogdandoroslovac@gmail.com				</td></tr>
