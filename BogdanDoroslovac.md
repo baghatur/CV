@@ -20,21 +20,26 @@
 * 2007 - 2013 __BSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 
 ## Work Experience
-* OCT 2019 - PRESENT  ( ~~ ) 	__Firmware Lead Engineer & Scrum Master__    	- _Holy Code d.o.o. / Ava Women_
-	* __Desc:__ Working on IEC 62304 class A & C medical weareable devices. Close colaborating with hardware department, mobile teams on BLE stack and supporting DevOps on building up firmware CI project. More info: [Ava Bracelet](https://www.avawomen.com) 
-	* __Misc:__ Assuming Scrum Master role, ramping up colleague for a SM position and facilitating meetings for 2 team. Internal Scrum trainings.
-	* __Tech:__ C, Git, Bash, Atlassian Stack, RTOS, Bare-metal, BLE / Nordic SDK
+
+* SEP 2021 - PRESENT  ( ~~ ) 	__Lead Consultant (Agile Consultant)__    	- _Zuhlke Engineering d.o.o._
+* MAR 2021 - AUG 2021 ( 6m ) 	__Expert Software Engineer & Agile Coach__	- _Zuhlke Engineering d.o.o._
+	* __Desc:__ Service providing - Providing Agile Coaching services and Scrum training to client in financial industry in South-Eastern Asia.
 
 * MAR 2020 - PRESENT ( ~~ )	__Meetup Community Founder and Co-Organiser__	- _Scrum Sredom (Scrum Wednesdays)_
 	* __Desc:__ Maiting and cultivating one of the most active and widely recognised Agile related meetups on Balkans. More on our [Youtube channel](https://www.youtube.com/channel/UC6j4CQ7HJnJGXMGuqtjFqsA) and our [Meetup Page](https://www.meetup.com/Scrum-Sredom-Scrum-Wednesdays/)
 	* __Misc:__ (co)rganized 20 sucessful events and collaborated with other groups to bring value to our meetup community
 
-* MAY 2019 - PRESENT  ( ~~ ) 	__Professional Scrum Trainer (PST)__    - _Freelance / Embedded Agility_
+* MAY 2019 - PRESENT  ( ~~ ) 	__Professional Scrum Trainer (PST)__    	- _Freelance / Embedded Agility_
 	* __Desc:__ Agile Coach and Scrum trainer licensed to teach [Scrum.org](https://www.scrum.org/bogdan-doroslovac):
 		- Professional Scrum Developer I course [PSDI](https://www.scrum.org/courses/professional-scrum-developer-training)
 		- Professional Scrum Foundations course [PSF](https://www.scrum.org/courses/professional-scrum-foundations-training)
 		- Professional Agile Leadership - Essengtials course [PAL-E](https://www.scrum.org/courses/professional-agile-leadership-essentials-training)
 		- Professional Scrum with Kanban course [PSK](https://www.scrum.org/courses/professional-scrum-with-kanban-training)
+
+* OCT 2019 - FEB 2021  (1y7m) 	__Firmware Lead Engineer & Scrum Master__    	- _Holy Code d.o.o. / Ava Women_
+	* __Desc:__ Working on IEC 62304 class A & C medical weareable devices. Close colaborating with hardware department, mobile teams on BLE stack and supporting DevOps on building up firmware CI project. More info: [Ava Bracelet](https://www.avawomen.com) 
+	* __Misc:__ Assuming Scrum Master role, ramping up colleague for a SM position and facilitating meetings for 2 team. Internal Scrum trainings.
+	* __Tech:__ C, Git, Bash, Atlassian Stack, RTOS, Bare-metal, BLE / Nordic SDK	
 	
 * DEC 2018 - OCT 2019  ( 10m) 	__C/C++ Software Engineer & SaFE Scrum Master__	- _Robert Bosch d.o.o._
 	* __Desc:__ Working on reducing the data volume to be transmitted over the air with possibility of up to 96% of the original software file size. More info: [FOTA Delta](http://www.bosch-softtec.com/fotadelta.html)
@@ -47,7 +52,7 @@
 	* __Misc:__ Assisting PM and acting as Scrum Master and main Point Of Contact starting from Q2 2018. Involved in recruitment process refinement and candidate selection in 2018. Active in internal projects, education and employer branding (job fairs, meetup hosting, etc...) 
 	* __Tech:__ C/C++, Git, Bash, Embedded Linux, Atlassian Stack
 
-* JUN 2016 - SEP 2016 (  4m)	__RnD Engineer__    				- _EDePro d.o.o._
+* JUN 2016 - SEP 2016 (  4m)	__R&D Engineer__    				- _EDePro d.o.o._
 	* __Desc:__ Short term project - developing rotordynamics test bench for balancing and analysing small scale jet engine rotors behavior. Test and measurement using National instruments hardware and software, Omega Engineering sensors, Siemens phase regulator and various custom components.
 	* __Tech:__ C, LabVIEW
 
@@ -60,7 +65,7 @@
  	* __Desc:__ Part of outsourcing in Maintenence, Repair and Overhaul (MRO) / Aircraft Industry. Accountable for the maintenance, accuracy, completeness, and timeliness of aircraft equipment data update activities within ERP (SAP)
  	* __Tech:__ SAS, SAP, VB, Excel
 
-* OCT 2013 – JAN 2015 (1y4m)	__GNC Engineer__						- _EDePro d.o.o._
+* OCT 2013 – JAN 2015 (1y4m)	__GNC Engineer__				- _EDePro d.o.o._
 	* __Desc:__ Guidance, Navigation and Control research and development for defense contractor. Work primarily on ALAS (Advanced Light Attack System) Missile system. Autopilot development support: SIL (Software In the Loop) and HIL (Hardware In the Loop) test development and testing, 6DOF missile pre and post flight analysis and Inertial Measurement Unit calibration.
 	* __Tech:__ MATLAB + Simulink, C, LabVIEW, ARM CortexM3
 
@@ -94,15 +99,24 @@
 	* __Albanian__ 	-	Elementary proficiency
 
 * __Certification:__
+	* [Professional Scrum Trainer     (PST)](https://www.credly.com/badges/d73b4feb-aad8-4ff3-9088-3455dac1d67a/public_url) 
 	* [Certified LabVIEW Developer (CLD)](www.youracclaim.com/badges/2a9f901b-cf40-4660-86b2-f67be0b67620)  
-	* [Professional Scrum Developer I (PSDI)](www.scrum.org/user/264888)
-	* [Professional Scrum Master I / II (PSMI & PSMII)](www.scrum.org/user/264888)
-	* [Proffesional Scrum with Kanban (PSK)](www.scrum.org/user/264888)
-	* [Professional Agile Leadership - Essentials (PAL-E)](www.scrum.org/user/264888)
+	* [Professional Scrum Developer I (PSDI)](https://www.credly.com/badges/ae398b13-02fb-4c15-ad19-1718bb27c062/public_url)
+	* [Professional Scrum Master I    (PSMI)](https://www.credly.com/badges/8b452366-bce6-4029-a91e-bfa96d9d0f6f/public_url)
+	* [Professional Scrum Master II   (PSMII)](https://www.credly.com/badges/33d65cf5-4782-4054-842d-87eb7fed1d99/public_url)
+	* [Proffesional Scrum with Kanban (PSK)](https://www.credly.com/badges/0253b3ee-c04a-46ed-909e-b4d9dcfb11b2/public_url)
+	* [Professional Agile Leadership - Essentials (PAL-E)](https://www.credly.com/badges/71d4c53d-670b-4756-ad73-8703a88ee35e/public_url)
+	* [Professional Agile Leadership - Evidence-Based Management (PAL-EBM)](https://www.credly.com/badges/fe8faa9b-ddcd-4a1b-941c-adc06f338f79/public_url)
 	* Certified Management 3.0 Foundation Workshop Atendee
 	* bikablo® 2 Days Visual Facilitation basic training
 	* [Certified Scrum Master (CSM)](www.scrumalliance.org/community/profile/bdoroslova)
-	* [Certified SAFe® 4 Agilist](https://www.youracclaim.com/badges/d00c12a6-1aaa-4f3b-973d-3c6c4d18f1dd)
+	* [Certified SAFe® 4 Agilist (SA)](https://www.credly.com/badges/2a9f901b-cf40-4660-86b2-f67be0b67620/public_url)
+	* [Certified SAFe® 5 Program Consultant (SPC)](https://www.credly.com/badges/b443e274-bca9-4224-9ea3-c499921b78a8/public_url)
+	* [SAFe® Remote Trainer](https://www.credly.com/badges/1f413454-a38c-40b2-b8ab-3eb51f5a2474/public_url)
+	* Points Of You Level 1 - Practitioner
+	* Points Of You Level 2 - Explorer
+	* NLP Pratitioner (by Global Citizen Education)
+	* Integrative Constructivist Coaching Diploma Certificate (by Koucing Centar) 
 * __Relevant Coursework:__
 	* Bootlin (ex Free Electrons): [Yocto Project and OpenEmbedded development training](bootlin.com/training/yocto/)
 	* Bootlin (ex Free Electrons): [Embedded Linux development with Buildroot training](bootlin.com/training/buildroot/)
