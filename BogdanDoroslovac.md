@@ -4,7 +4,7 @@
 <td><img src="https://raw.githubusercontent.com/baghatur/CV/master/DORB.jpg" width="200" height="200"></td>
 <td><table>
 	<tr><th>		</th>	<th>	Contact information						</th></tr>
-  	<tr><td>mail	</td>	<td>	bogdandoroslovac@gmail.com				</td></tr>
+  	<tr><td>mail	</td>	<td>	bogdan@doroslovac.rs				</td></tr>
   	<tr><td>LinkedIn</td>	<td>	www.linkedin.com/in/bogdandoroslovac	</td></tr>
   	<tr><td>Phone	</td>	<td>	+381 65 2643263							</td></tr>
   	<tr><td>Skype	</td>	<td>	bogdandoroslovac						</td></tr>
@@ -16,6 +16,7 @@
 </table>
 
 ## Education
+* 2021 - TBD  __Gestalt therapist training:__ _Gestalt Akademija (Belgrade)_
 * 2013 - 2020 __MSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 * 2007 - 2013 __BSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 
@@ -23,11 +24,15 @@
 
 * SEP 2021 - PRESENT  ( ~~ ) 	__Lead Consultant (Agile Consultant)__    	- _Zuhlke Engineering d.o.o._
 * MAR 2021 - AUG 2021 ( 6m ) 	__Expert Software Engineer & Agile Coach__	- _Zuhlke Engineering d.o.o._
-	* __Desc:__ Service providing - Providing Agile Coaching services and Scrum training to client in financial industry in South-Eastern Asia.
+	* __Desc:__ 
+		* Service providing - Providing Agile Coaching services and Scrum training to client in financial industry in South-Eastern Asia.
+		* Internal training - ~100 people trained in APS-SD; PAL-E, PSK & SA
+		* 1-1 Coaching: Internal support and coaching to colleagues
+		* Facilitation: Supporting processes and 
 
 * MAR 2020 - PRESENT ( ~~ )	__Meetup Community Founder and Co-Organiser__	- _Scrum Sredom (Scrum Wednesdays)_
 	* __Desc:__ Maiting and cultivating one of the most active and widely recognised Agile related meetups on Balkans. More on our [Youtube channel](https://www.youtube.com/channel/UC6j4CQ7HJnJGXMGuqtjFqsA) and our [Meetup Page](https://www.meetup.com/Scrum-Sredom-Scrum-Wednesdays/)
-	* __Misc:__ (co)rganized 20 sucessful events and collaborated with other groups to bring value to our meetup community
+	* __Misc:__ (co)rganized 30 sucessful events and collaborated with other groups to bring value to our meetup community. Co-organized first regional in-person Agile Coaching Retreat in Osijek.
 
 * MAY 2019 - PRESENT  ( ~~ ) 	__Indepent Consultant__    	- _Freelance / Embedded Agility_
 	* __Desc:__ 
@@ -38,9 +43,11 @@
 			- Professional Agile Leadership - Essengtials course [PAL-E](https://www.scrum.org/courses/professional-agile-leadership-essentials-training)
 			- Professional Scrum with Kanban course [PSK](https://www.scrum.org/courses/professional-scrum-with-kanban-training)
 		* SAFe® 5 Program Consultant (SPC) enabled to teach:
-			- SAFe Scrum Master 5.0 course [SSM](https://scaledagile.com/training/safe-scrum-master/)
+ 			- Leading SAFe 5.1 course [SA](https://scaledagile.com/training/leading-safe/)
+			- SAFe Scrum Master 5.1 course [SSM](https://scaledagile.com/training/safe-scrum-master/)
+			- SAFe® Advanced Scrum Master 5.1 course [ASSM](https://scaledagile.com/training/safe-advanced-scrum-master/)
 			- SAFe for Teams 5.1 course [SP](https://scaledagile.com/training/safe-for-teams/)
-			- Leading SAFe 5.1 course [SA](https://scaledagile.com/training/leading-safe/)
+			- Agile Software Engineering [ASE](https://scaledagile.com/training/agile-software-engineering/)
 
 * OCT 2019 - FEB 2021  (1y7m) 	__Firmware Lead Engineer & Scrum Master__    	- _Holy Code d.o.o. / Ava Women_
 	* __Desc:__ Working on IEC 62304 class A & C medical weareable devices. Close colaborating with hardware department, mobile teams on BLE stack and supporting DevOps on building up firmware CI project. More info: [Ava Bracelet](https://www.avawomen.com) 
@@ -110,6 +117,7 @@
 	* [Professional Scrum Developer I (PSDI)](https://www.credly.com/badges/ae398b13-02fb-4c15-ad19-1718bb27c062/public_url)
 	* [Professional Scrum Master I    (PSMI)](https://www.credly.com/badges/8b452366-bce6-4029-a91e-bfa96d9d0f6f/public_url)
 	* [Professional Scrum Master II   (PSMII)](https://www.credly.com/badges/33d65cf5-4782-4054-842d-87eb7fed1d99/public_url)
+	* [Professional Scrum Master III  (PSMIII)](https://www.credly.com/badges/1cbfc801-d009-4c2b-a270-3c5e1ab9777b/public_url)
 	* [Proffesional Scrum with Kanban (PSK)](https://www.credly.com/badges/0253b3ee-c04a-46ed-909e-b4d9dcfb11b2/public_url)
 	* [Professional Agile Leadership - Essentials (PAL-E)](https://www.credly.com/badges/71d4c53d-670b-4756-ad73-8703a88ee35e/public_url)
 	* [Professional Agile Leadership - Evidence-Based Management (PAL-EBM)](https://www.credly.com/badges/fe8faa9b-ddcd-4a1b-941c-adc06f338f79/public_url)
@@ -121,6 +129,7 @@
 	* [SAFe® Remote Trainer](https://www.credly.com/badges/1f413454-a38c-40b2-b8ab-3eb51f5a2474/public_url)
 	* Points Of You Level 1 - Practitioner
 	* Points Of You Level 2 - Explorer
+	* Points Of You Level - Flow
 	* NLP Pratitioner (by Global Citizen Education)
 	* Integrative Constructivist Coaching Diploma Certificate (by Koucing Centar) 
 * __Relevant Coursework:__
@@ -141,16 +150,16 @@
 	* EBEC2014 Local 1st, Regional 1st and Final 3rd place in Team design category
 
 * __Refereces:__ 
+ 	* [Stojan Kovačević](www.linkedin.com/in/stojankovacevic/)			- Head of Competence Unit at Zuhlke Engineering d.o.o.
 	* [Dušan Vukašinović](www.linkedin.com/in/dusan-vukasinovic-b6065ba/)		- Field Sales Engineer at National Instruments
 	* [Ján Budaj](www.linkedin.com/in/j%C3%A1n-budaj-93561349/)			- Applications Engineer Team Lead at National Instruments
 	* [Ivana Todić](www.linkedin.com/in/ivana-todic-5380a74/)			- BSc. Mentor and GNC RnD engineer at EDePro
 	* [Milan Kovačević](www.linkedin.com/in/milankovacevicsaga/)			- Chief of GNC Dpt. at EDePro
 	* [Saša Tasić](www.linkedin.com/in/sasa-tasic-04021446/)			- Head of Component Engineering and Data Management
 	* [Vladimir Jazarecić](www.linkedin.com/in/vladimir-jazarevic-phd-3217423a/)	- Chief of Dpt. electrical UAV and control of turbo engines at EDePro
-	* [Stojan Kovačević](www.linkedin.com/in/stojankovacevic/)			- Head of Competence Unit at Zuhlke Engineering d.o.o.
 	* [Aleksandar Marjanović](www.linkedin.com/in/aleksandar-marjanovic-7213b54/)	- Managing Director and Partner at Zuhlke Engineering d.o.o.
 
-* __Hobbies:__ Krav Maga, running, juggling, reading (mostly SF and Fantasy), Arduino, electronics, tinkering, bridge, telegraphy,  ...
+* __Hobbies:__ _Krav Maga_, _running_, juggling, reading (mostly SF and Fantasy), Arduino, electronics, tinkering, bridge, telegraphy,  ...
 
 
 
