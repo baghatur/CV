@@ -16,7 +16,7 @@
 </table>
 
 ## Education
-* 2021 - TBD  __Gestalt therapist training:__ _Gestalt Akademija (Belgrade)_
+* 2021 - TBD  __Gestalt therapist in training:__ _Gestalt Akademija (Belgrade)_ [180 / 600h]
 * 2013 - 2020 __MSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 * 2007 - 2013 __BSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 
@@ -26,9 +26,10 @@
 * MAR 2021 - AUG 2021 ( 6m ) 	__Expert Software Engineer & Agile Coach__	- _Zuhlke Engineering d.o.o._
 	* __Desc:__ 
 		* Service providing - Providing Agile Coaching services and Scrum training to client in financial industry in South-Eastern Asia.
-		* Internal training - ~100 people trained in APS-SD; PAL-E, PSK & SA
+		* Project setup and process support, Scrum Master, Project Management and Product Owner roles in numerous projects in medical space.
+		* Internal training - ~200 people trained in APS-SD; PAL-E; PSK & SA
 		* 1-1 Coaching: Internal support and coaching to colleagues
-		* Facilitation: Supporting processes and 
+		* Facilitation: Supporting processes and facilitating events of 80+ people using Liberating Structures and other techniques
 
 * MAR 2020 - PRESENT ( ~~ )	__Meetup Community Founder and Co-Organiser__	- _Scrum Sredom (Scrum Wednesdays)_
 	* __Desc:__ Maiting and cultivating one of the most active and widely recognised Agile related meetups on Balkans. More on our [Youtube channel](https://www.youtube.com/channel/UC6j4CQ7HJnJGXMGuqtjFqsA) and our [Meetup Page](https://www.meetup.com/Scrum-Sredom-Scrum-Wednesdays/)
@@ -38,8 +39,9 @@
 	* __Desc:__ 
 		* Providing Professional Coaching and Cosulting services
 		* Agile Coach and Professional Scrum Trainer (PST) licensed to teach [Scrum.org](https://www.scrum.org/bogdan-doroslovac) courses:
-			- Professional Scrum Developer I course [PSDI](https://www.scrum.org/courses/professional-scrum-developer-training)
-			- Professional Scrum Foundations course [PSF](https://www.scrum.org/courses/professional-scrum-foundations-training)
+			- Professional Scrum Master course (PSM)[https://www.scrum.org/courses/professional-scrum-master-training]
+			- Applying Professional Scrum for Software Developement course [APS-SD](https://www.scrum.org/courses/applying-professional-scrum-for-software-development-training)
+			- Applying Professional Scrum course [PSF](https://www.scrum.org/courses/applying-professional-scrum-training)
 			- Professional Agile Leadership - Essengtials course [PAL-E](https://www.scrum.org/courses/professional-agile-leadership-essentials-training)
 			- Professional Scrum with Kanban course [PSK](https://www.scrum.org/courses/professional-scrum-with-kanban-training)
 		* SAFe® 5 Program Consultant (SPC) enabled to teach:
@@ -129,9 +131,11 @@
 	* [SAFe® Remote Trainer](https://www.credly.com/badges/1f413454-a38c-40b2-b8ab-3eb51f5a2474/public_url)
 	* Points Of You Level 1 - Practitioner
 	* Points Of You Level 2 - Explorer
+	* Points Of You Level 3 - Expert
 	* Points Of You Level - Flow
 	* NLP Pratitioner (by Global Citizen Education)
 	* Integrative Constructivist Coaching Diploma Certificate (by Koucing Centar) 
+	* [Intorduction to Flight Levels (FLIN)](https://www.credential.net/130915d8-1c89-4185-85a1-8719488b1a11#gs.7h6gt1)
 * __Relevant Coursework:__
 	* Bootlin (ex Free Electrons): [Yocto Project and OpenEmbedded development training](bootlin.com/training/yocto/)
 	* Bootlin (ex Free Electrons): [Embedded Linux development with Buildroot training](bootlin.com/training/buildroot/)
@@ -159,9 +163,4 @@
 	* [Vladimir Jazarecić](www.linkedin.com/in/vladimir-jazarevic-phd-3217423a/)	- Chief of Dpt. electrical UAV and control of turbo engines at EDePro
 	* [Aleksandar Marjanović](www.linkedin.com/in/aleksandar-marjanovic-7213b54/)	- Managing Director and Partner at Zuhlke Engineering d.o.o.
 
-* __Hobbies:__ _Krav Maga_, _running_, juggling, reading (mostly SF and Fantasy), Arduino, electronics, tinkering, bridge, telegraphy,  ...
-
-
-
-
-
+* __Hobbies:__ _Krav Maga_, _shooting_, roller blading, juggling, reading (mostly SF and Fantasy), Arduino, electronics, tinkering, bridge, telegraphy,  ...
