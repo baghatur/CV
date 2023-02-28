@@ -16,13 +16,14 @@
 </table>
 
 ## Education
-* 2021 - TBD  __Gestalt therapist in training:__ _Gestalt Akademija (Belgrade)_ [180 / 600h]
+* 2021 - (exp. 2025)  __Gestalt therapist in training:__ _Gestalt Akademija (Belgrade)_ [263 / 600h]
 * 2013 - 2020 __MSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 * 2007 - 2013 __BSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 
 ## Work Experience
 
-* SEP 2021 - PRESENT  ( ~~ ) 	__Lead Consultant (Agile Consultant)__    	- _Zuhlke Engineering d.o.o._
+* JAN 2023 - PRESENT  ( ~~ ) 	__Principal Consultant (Agile Consultant)__    	- _Zuhlke Engineering d.o.o._
+* SEP 2021 - DEC 2022 ( 1y4m ) 	__Lead Consultant (Agile Consultant)__    	- _Zuhlke Engineering d.o.o._
 * MAR 2021 - AUG 2021 ( 6m ) 	__Expert Software Engineer & Agile Coach__	- _Zuhlke Engineering d.o.o._
 	* __Desc:__ 
 		* Service providing - Providing Agile Coaching services and Scrum training to client in financial industry in South-Eastern Asia.
@@ -39,9 +40,10 @@
 	* __Desc:__ 
 		* Providing Professional Coaching and Cosulting services
 		* Agile Coach and Professional Scrum Trainer (PST) licensed to teach [Scrum.org](https://www.scrum.org/bogdan-doroslovac) courses:
-			- Professional Scrum Master course (PSM)[https://www.scrum.org/courses/professional-scrum-master-training]
+			- Professional Scrum Master course [PSM](https://www.scrum.org/courses/professional-scrum-master-training)
+			- Professional Scrum Master II course [PSM2](https://www.scrum.org/courses/professional-scrum-master-ii-training)
 			- Applying Professional Scrum for Software Developement course [APS-SD](https://www.scrum.org/courses/applying-professional-scrum-for-software-development-training)
-			- Applying Professional Scrum course [PSF](https://www.scrum.org/courses/applying-professional-scrum-training)
+			- Applying Professional Scrum course [APS](https://www.scrum.org/courses/applying-professional-scrum-training)
 			- Professional Agile Leadership - Essengtials course [PAL-E](https://www.scrum.org/courses/professional-agile-leadership-essentials-training)
 			- Professional Scrum with Kanban course [PSK](https://www.scrum.org/courses/professional-scrum-with-kanban-training)
 		* SAFe® 5 Program Consultant (SPC) enabled to teach:
@@ -114,6 +116,7 @@
 	* __Albanian__ 	-	Elementary proficiency
 
 * __Certification:__
+	* [Professional Certified Coach - PCC](https://www.credly.com/badges/cd48dceb-012e-48b2-b5ca-c3fc639d7be4/public_url) 
 	* [Professional Scrum Trainer     (PST)](https://www.credly.com/badges/d73b4feb-aad8-4ff3-9088-3455dac1d67a/public_url) 
 	* [Certified LabVIEW Developer (CLD)](www.youracclaim.com/badges/2a9f901b-cf40-4660-86b2-f67be0b67620)  
 	* [Professional Scrum Developer I (PSDI)](https://www.credly.com/badges/ae398b13-02fb-4c15-ad19-1718bb27c062/public_url)
@@ -136,6 +139,7 @@
 	* NLP Pratitioner (by Global Citizen Education)
 	* Integrative Constructivist Coaching Diploma Certificate (by Koucing Centar) 
 	* [Intorduction to Flight Levels (FLIN)](https://www.credential.net/130915d8-1c89-4185-85a1-8719488b1a11#gs.7h6gt1)
+	* [Flight Level 2 Desing - FL2d](https://www.credential.net/379c848c-2ebe-4bfd-a30e-b9d0476f28e3#gs.qr9xga)
 * __Relevant Coursework:__
 	* Bootlin (ex Free Electrons): [Yocto Project and OpenEmbedded development training](bootlin.com/training/yocto/)
 	* Bootlin (ex Free Electrons): [Embedded Linux development with Buildroot training](bootlin.com/training/buildroot/)
