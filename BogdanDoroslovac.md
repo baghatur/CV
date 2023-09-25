@@ -32,13 +32,13 @@
 		* 1-1 Coaching: Internal support and coaching to colleagues
 		* Facilitation: Supporting processes and facilitating events of 80+ people using Liberating Structures and other techniques
 
-* MAR 2020 - PRESENT ( ~~ )	__Meetup Community Founder and Co-Organiser__	- _Scrum Sredom (Scrum Wednesdays)_
-	* __Desc:__ Maiting and cultivating one of the most active and widely recognised Agile related meetups on Balkans. More on our [Youtube channel](https://www.youtube.com/channel/UC6j4CQ7HJnJGXMGuqtjFqsA) and our [Meetup Page](https://www.meetup.com/Scrum-Sredom-Scrum-Wednesdays/)
+* MAR 2020 - PRESENT ( ~~ )	__Meetup Community Founder and Co-Organiser__	- _Scrum Sr*dom (Scrum Wednesdays)_
+	* __Desc:__ Making and cultivating one of the most active and widely recognised Agile related meetups on Balkans. More on our [Youtube channel](https://www.youtube.com/channel/UC6j4CQ7HJnJGXMGuqtjFqsA) and our [Meetup Page](https://www.meetup.com/Scrum-Sredom-Scrum-Wednesdays/)
 	* __Misc:__ (co)rganized 30 sucessful events and collaborated with other groups to bring value to our meetup community. Co-organized first regional in-person Agile Coaching Retreat in Osijek.
 
 * MAY 2019 - PRESENT  ( ~~ ) 	__Indepent Consultant__    	- _Freelance / Embedded Agility_
 	* __Desc:__ 
-		* Providing Professional Coaching and Cosulting services
+		* Providing Professional Coaching and Consulting services
 		* Agile Coach and Professional Scrum Trainer (PST) licensed to teach [Scrum.org](https://www.scrum.org/bogdan-doroslovac) courses:
 			- Professional Scrum Master course [PSM](https://www.scrum.org/courses/professional-scrum-master-training)
 			- Professional Scrum Master II course [PSM2](https://www.scrum.org/courses/professional-scrum-master-ii-training)
