@@ -46,12 +46,15 @@
 			- Applying Professional Scrum course [APS](https://www.scrum.org/courses/applying-professional-scrum-training)
 			- Professional Agile Leadership - Essengtials course [PAL-E](https://www.scrum.org/courses/professional-agile-leadership-essentials-training)
 			- Professional Scrum with Kanban course [PSK](https://www.scrum.org/courses/professional-scrum-with-kanban-training)
-		* SAFe® 5 Program Consultant (SPC) enabled to teach:
- 			- Leading SAFe 5.1 course [SA](https://scaledagile.com/training/leading-safe/)
-			- SAFe Scrum Master 5.1 course [SSM](https://scaledagile.com/training/safe-scrum-master/)
-			- SAFe® Advanced Scrum Master 5.1 course [ASSM](https://scaledagile.com/training/safe-advanced-scrum-master/)
-			- SAFe for Teams 5.1 course [SP](https://scaledagile.com/training/safe-for-teams/)
-			- Agile Software Engineering [ASE](https://scaledagile.com/training/agile-software-engineering/)
+			- Professional Scrum Facilitation skills course [PSFS](https://www.scrum.org/courses/professional-scrum-facilitation-skills-training)
+		* SAFe® 6 Practice Consultant (SPC) enabled to teach:
+ 			- Leading SAFe 6.0 course [SA](https://scaledagile.com/training/leading-safe/)
+			- SAFe Scrum Master 6.0 course [SSM](https://scaledagile.com/training/safe-scrum-master/)
+   			- SAFe® Advanced Scrum Master 6.0 course [ASSM](https://scaledagile.com/training/safe-advanced-scrum-master/) 
+			- SAFe for Teams 6.0 course [SP](https://scaledagile.com/training/safe-for-teams/)
+   			- SAFe Product Owner / Program Manager [POPM](https://scaledagile.com/training/safe-product-owner-product-manager)
+			- Agile Software Engineering 5.0 course [ASE](https://scaledagile.com/training/agile-software-engineering/)
+   			- Agile HR Explorer 
 
 * OCT 2019 - FEB 2021  (1y7m) 	__Firmware Lead Engineer & Scrum Master__    	- _Holy Code d.o.o. / Ava Women_
 	* __Desc:__ Working on IEC 62304 class A & C medical weareable devices. Close colaborating with hardware department, mobile teams on BLE stack and supporting DevOps on building up firmware CI project. More info: [Ava Bracelet](https://www.avawomen.com) 
