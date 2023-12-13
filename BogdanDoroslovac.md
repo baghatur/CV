@@ -42,11 +42,13 @@
 		* Agile Coach and Professional Scrum Trainer (PST) licensed to teach [Scrum.org](https://www.scrum.org/bogdan-doroslovac) courses:
 			- Professional Scrum Master course [PSM](https://www.scrum.org/courses/professional-scrum-master-training)
 			- Professional Scrum Master II course [PSM2](https://www.scrum.org/courses/professional-scrum-master-ii-training)
+			- Professional Scrum Product Owner course [PSPO](https://www.scrum.org/courses/professional-scrum-product-owner-training)
 			- Applying Professional Scrum for Software Developement course [APS-SD](https://www.scrum.org/courses/applying-professional-scrum-for-software-development-training)
 			- Applying Professional Scrum course [APS](https://www.scrum.org/courses/applying-professional-scrum-training)
 			- Professional Agile Leadership - Essengtials course [PAL-E](https://www.scrum.org/courses/professional-agile-leadership-essentials-training)
 			- Professional Scrum with Kanban course [PSK](https://www.scrum.org/courses/professional-scrum-with-kanban-training)
-			- Professional Scrum Facilitation skills course [PSFS](https://www.scrum.org/courses/professional-scrum-facilitation-skills-training)
+			- Professional Scrum Facilitation skills course [PSF Skills](https://www.scrum.org/courses/professional-scrum-facilitation-skills-training)
+			- Professional Scrum Facilitation skills course [PSPBM Skills](https://www.scrum.org/courses/professional-scrum-product-backlog-management-skills-training)
 		* SAFe® 6 Practice Consultant (SPC) enabled to teach:
  			- Leading SAFe 6.0 course [SA](https://scaledagile.com/training/leading-safe/)
 			- SAFe Scrum Master 6.0 course [SSM](https://scaledagile.com/training/safe-scrum-master/)
@@ -119,16 +121,21 @@
 	* __Albanian__ 	-	Elementary proficiency
 
 * __Certification:__
-	* [Professional Certified Coach - PCC](https://www.credly.com/badges/cd48dceb-012e-48b2-b5ca-c3fc639d7be4/public_url) 
-	* [Professional Scrum Trainer     (PST)](https://www.credly.com/badges/d73b4feb-aad8-4ff3-9088-3455dac1d67a/public_url) 
-	* [Certified LabVIEW Developer (CLD)](www.youracclaim.com/badges/2a9f901b-cf40-4660-86b2-f67be0b67620)  
-	* [Professional Scrum Developer I (PSDI)](https://www.credly.com/badges/ae398b13-02fb-4c15-ad19-1718bb27c062/public_url)
-	* [Professional Scrum Master I    (PSMI)](https://www.credly.com/badges/8b452366-bce6-4029-a91e-bfa96d9d0f6f/public_url)
-	* [Professional Scrum Master II   (PSMII)](https://www.credly.com/badges/33d65cf5-4782-4054-842d-87eb7fed1d99/public_url)
-	* [Professional Scrum Master III  (PSMIII)](https://www.credly.com/badges/1cbfc801-d009-4c2b-a270-3c5e1ab9777b/public_url)
-	* [Proffesional Scrum with Kanban (PSK)](https://www.credly.com/badges/0253b3ee-c04a-46ed-909e-b4d9dcfb11b2/public_url)
-	* [Professional Agile Leadership - Essentials (PAL-E)](https://www.credly.com/badges/71d4c53d-670b-4756-ad73-8703a88ee35e/public_url)
+	* [Professional Certified Coach         (PCC)](https://www.credly.com/badges/cd48dceb-012e-48b2-b5ca-c3fc639d7be4/public_url) 
+	* [Professional Scrum Trainer           (PST)](https://www.credly.com/badges/d73b4feb-aad8-4ff3-9088-3455dac1d67a/public_url) 
+	* [Certified LabVIEW Developer          (CLD)](www.youracclaim.com/badges/2a9f901b-cf40-4660-86b2-f67be0b67620)  
+	* [Professional Scrum Developer I       (PSDI)](https://www.credly.com/badges/ae398b13-02fb-4c15-ad19-1718bb27c062/public_url)
+	* [Professional Scrum Master I          (PSMI)](https://www.credly.com/badges/8b452366-bce6-4029-a91e-bfa96d9d0f6f/public_url)
+	* [Professional Scrum Master II         (PSMII)](https://www.credly.com/badges/33d65cf5-4782-4054-842d-87eb7fed1d99/public_url)
+	* [Professional Scrum Master III        (PSMIII)](https://www.credly.com/badges/1cbfc801-d009-4c2b-a270-3c5e1ab9777b/public_url)
+	* [Professional Scrum Product Owner I   (PSPOI)](https://www.credly.com/badges/3841db3d-fb7e-4c7c-b53c-9be0d15046b8/public_url)
+	* [Professional Scrum Product Owner II  (PSPOII)](https://www.credly.com/badges/ff36007c-9a32-48ab-a52d-371a82c710a7/public_url)
+	* [Professional Scrum Product Owner III (PSPOIII)](https://www.credly.com/badges/00a166dd-35dc-4fb1-b05d-deab65f294f2/public_url)
+	* [Proffesional Scrum with Kanban       (PSK)](https://www.credly.com/badges/0253b3ee-c04a-46ed-909e-b4d9dcfb11b2/public_url)
+	* [Professional Agile Leadership - Essentials                (PAL-E)](https://www.credly.com/badges/71d4c53d-670b-4756-ad73-8703a88ee35e/public_url)
 	* [Professional Agile Leadership - Evidence-Based Management (PAL-EBM)](https://www.credly.com/badges/fe8faa9b-ddcd-4a1b-941c-adc06f338f79/public_url)
+	* [Professional Scrum Facilitation Skills                    (PSF Skills)](https://www.credly.com/badges/fa0c7383-a20f-4ac2-a38f-05c4ddec9b19/public_url)
+	* [Professional Scrum Product Backlog Management Skills      (PSPBM Skills)](https://www.credly.com/badges/2f8077f5-1a34-44f3-abb2-303bca285efd/public_url)
 	* Certified Management 3.0 Foundation Workshop Atendee
 	* bikablo® 2 Days Visual Facilitation basic training
 	* [Certified Scrum Master (CSM)](www.scrumalliance.org/community/profile/bdoroslova)
