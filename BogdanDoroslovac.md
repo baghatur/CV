@@ -16,7 +16,8 @@
 </table>
 
 ## Education
-* 2021 - (exp. 2025)  __Gestalt therapist in training:__ _Gestalt Akademija (Belgrade)_ [263 / 600h]
+* 2021 - (exp. 2025)  __Gestalt therapist in training:__ _Gestalt Akademija (Belgrade)_ [413 / 600h]
+* 2022 - (exp. 2027)  __Psychodrama therapist in training:__ _Serbian Psychodrama Association Moreno (Belgrade)_ [413 / 600h]
 * 2013 - 2020 __MSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 * 2007 - 2013 __BSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 
