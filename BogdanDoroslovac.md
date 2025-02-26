@@ -16,7 +16,7 @@
 </table>
 
 ## Education
-* 2021 - (exp. 2025)  __Gestalt therapist in training:__ _Gestalt Akademija (Belgrade)_ [413 / 600h]
+* 2021 - (exp. 2025)  __Gestalt therapist in training:__ _Gestalt Akademija (Belgrade)_ [614 / 600h]
 * 2022 - (exp. 2027)  __Psychodrama therapist in training:__ _Serbian Psychodrama Association Moreno (Belgrade)_ 
 * 2013 - 2020 __MSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
 * 2007 - 2013 __BSc, Mechanical Engineering:__ _Faculty of Mechanical Engineering (Belgrade)_
@@ -58,6 +58,8 @@
    			- SAFe Product Owner / Program Manager [POPM](https://scaledagile.com/training/safe-product-owner-product-manager)
 			- Agile Software Engineering 5.0 course [ASE](https://scaledagile.com/training/agile-software-engineering/)
    			- Agile HR Explorer 
+* SEP 2022 - OCT 2024  (2y2m) 	__Coach, Trainer, Coaching Trainer__    	- _Koucing Centar d.o.o. - Part-time_
+	* __Desc:__ Delivering coaching courses, scrum courses, custom tailored client courses and workshops and coaching sessions
 
 * OCT 2019 - FEB 2021  (1y7m) 	__Firmware Lead Engineer & Scrum Master__    	- _Holy Code d.o.o. / Ava Women_
 	* __Desc:__ Working on IEC 62304 class A & C medical weareable devices. Close colaborating with hardware department, mobile teams on BLE stack and supporting DevOps on building up firmware CI project. More info: [Ava Bracelet](https://www.avawomen.com) 
